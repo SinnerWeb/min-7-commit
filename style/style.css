@@ -34,3 +34,11 @@ color: white;
     font-weight: bold;
     font-size: 80px;
 }
+
+.img {
+    position: absolute;
+    width: 945px;
+    height: 665px;
+    left: 935px;
+    top: 147px;
+}
