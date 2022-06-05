@@ -8,3 +8,29 @@ body {
 background: black url(../img/BG.png);
 color: white;
 }
+
+.wrapper-title {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 33px;
+    
+    position: absolute;
+    width: 808px;
+    height: 361px;
+    left: 260px;
+    bottom: 160px;
+    font-family: monospace;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 24px;
+    color: rgb(195, 197, 199);
+}
+
+.title-NFT {
+    font-weight: bold;
+    font-size: 80px;
+}
